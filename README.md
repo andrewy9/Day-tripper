@@ -1,16 +1,12 @@
 # Day Tripper
 
-
-You can find the server running on [http://localhost:3000](http://localhost:3000).
+Final group project with Enspiral Dev Academy
 
 ## Details
 
 This repo includes:
 
-* a single, simple API endpoint 
-* a single React component (`<App />`)
 * a database module 
-* an API client module 
-* configuration for Jest and Enzyme (including JSDOM)
+* a API client modules (Google Map, FourSquare, MetaWeather API)
+* configuration for Jest
 * configuration for server-side debugging in VS Code
-* a single client-side test (`client/components/App.test.js`)
